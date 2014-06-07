@@ -3,6 +3,7 @@
 This is a base [Yeoman](http://yeoman.io/) generator for web projects.  Git clone it and install with:
 
 ````
+npm install
 npm link
 ````
 
