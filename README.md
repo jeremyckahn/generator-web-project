@@ -1,6 +1,6 @@
 # generator-web-project
 
-This is base generator for web projects.  Git clone it and install with:
+This is a base [Yeoman](http://yeoman.io/) generator for web projects.  Git clone it and install with:
 
 ````
 npm link
